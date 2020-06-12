@@ -3,6 +3,7 @@
 <br>
 <br>
 <br>download this code:```git clone https://github.com/yuyangdanny/simple-DCGAN.git```
+<br>install requirements: ```pip install -r requirements.txt```
 <br>生成結果:
 <br>1.未訓練模型:
 <br>![](https://github.com/yuyangdanny/simple-DCGAN/blob/master/results%20images/un_trained.PNG)
