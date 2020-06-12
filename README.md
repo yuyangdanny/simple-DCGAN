@@ -3,4 +3,4 @@
 
 生成結果:
 1.未訓練模型:
-!(https://github.com/yuyangdanny/simple-DCGAN/blob/master/results%20images/un_trained.PNG)
+(https://github.com/yuyangdanny/simple-DCGAN/blob/master/results%20images/un_trained.PNG)
